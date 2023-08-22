@@ -1,4 +1,3 @@
-![logo](_public/favicon.ico) 
 
 # JAVA 学习笔记
 
