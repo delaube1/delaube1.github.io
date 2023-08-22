@@ -1,4 +1,4 @@
-![logo](_public/favicon.ico) 
+![logo](_public/favicon2.ico) 
 
 # JAVA 学习笔记
 
